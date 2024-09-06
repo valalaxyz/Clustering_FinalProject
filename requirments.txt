@@ -4,4 +4,4 @@ seaborn
 numpy
 streamlit==1.38.0
 pandas==2.1.4
-scikit-learn
+scikit-learn==1.26.4
